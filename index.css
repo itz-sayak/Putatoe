@@ -1,0 +1,229 @@
+/* *{
+
+    box-sizing: border-box;
+} */
+
+body{
+
+    margin: 0;
+    padding: 0;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    height: 100%;
+
+
+}
+
+.navbar{
+    position: sticky;
+    top: 0px;
+
+    width: 100%;
+
+    background-color: #265e5e;
+
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    z-index: 250;
+
+}
+
+.logoup{
+
+    height: 57px;
+
+    margin-left: 25px;
+    margin-right: 10px;
+}
+
+
+
+
+.logotxt{
+
+    color: white;
+    font-size: 25px;
+}
+
+.logotxt:hover{
+
+    color: aqua;
+}
+
+
+.navright{
+
+    margin-right: 30px;
+    
+}
+
+.butt{
+
+    border-radius: 10px;
+
+    
+}
+
+.butt:hover{
+
+    background-color: aquamarine;
+
+    color: yellow;
+}
+
+.req{
+
+    position: absolute;
+    top: 73px;
+
+    background-color: #299ec6;
+
+    width: 100%;
+
+    padding-top: 10px;
+
+    padding-left: 25px;
+    color: white;
+}
+
+.first{
+
+
+    float: left;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 216px;
+}
+
+.second{
+
+    float: left;
+    text-align: center;
+   
+    margin-right: 216px;
+}
+
+.third{
+    float:left;
+    text-align: center;
+  
+    margin-right: 216px;
+
+}
+
+
+.fourth{
+
+    float:left;
+    text-align: center;
+    margin-right: 216px;
+
+}
+
+.fifth{
+
+    float:left;
+    text-align: center;
+    margin-right: 170px;
+
+}
+
+.sixth{
+
+    text-align: center;
+    float:left;
+}
+
+
+.foot{
+
+
+
+    position: relative;
+
+    top: 700px;
+
+    width: 100%;
+
+    background-color: #2a8f8f;
+
+    padding: 20px;
+
+    color: white;  
+    height: 240px;  
+
+}
+
+.left
+{
+
+ float: left;
+
+  padding-left: 120px;
+}
+
+.right{
+
+    float: right;
+padding-right: 240px;
+
+}
+.logo_foot{
+
+    height: 84px;
+    margin-bottom: 19px;
+}
+
+.icon{
+
+    padding: 5px;
+
+    
+
+    color: white;
+}
+
+.facebook,.insta,.linkedin:hover{
+
+   color: aqua;
+}
+
+.facebook{
+
+    color: white;
+  
+}
+
+.insta{
+
+    color: white;
+}
+
+.linkedin{
+
+    color: white;
+}
+
+
+
+.midpic{
+
+position: absolute;
+top: 161px;
+
+text-align: center;
+padding-left: 18px;
+}
+
+.lastpic{
+
+    position: absolute;
+    top: 480px;
+    
+    text-align: center;
+    padding-left: 18px;
+
+
+    }
